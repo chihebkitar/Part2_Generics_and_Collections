@@ -1,6 +1,6 @@
 # Part2_Generics_and_Collections
 
-## Covering 
+## Covering: 
 
 ### Generic Types
 
